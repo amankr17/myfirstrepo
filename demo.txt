@@ -1,1 +1,2 @@
-Hi Github 
+Hi from Github 
+to ubuntu server .😎
